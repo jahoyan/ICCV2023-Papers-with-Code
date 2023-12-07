@@ -12,8 +12,6 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 >
 > [ICCV 2021](ICCV2021-Papers-with-Code.md)
 
-如果你想了解最新最优质的的CV论文、开源项目和学习资料，欢迎扫码加入【[CVer学术交流群](https://t.zsxq.com/10OGjThDw)】！互相学习，一起进步~
-
 ![](https://github.com/amusi/CVPR2023-Papers-with-Code/raw/master/CVer%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E7%BE%A4.png)
 
 # 【ICCV 2023 论文开源目录】
