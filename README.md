@@ -12,7 +12,6 @@ ICCV 2023 收录论文IDs：https://t.co/A0mCH8gbOi
 >
 > [ICCV 2021](ICCV2021-Papers-with-Code.md)
 
-![](https://github.com/amusi/CVPR2023-Papers-with-Code/raw/master/CVer%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%E7%BE%A4.png)
 
 # 【ICCV 2023 论文开源目录】
 
